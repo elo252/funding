@@ -1,0 +1,34 @@
+name: Scrape Funding Opportunities
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Every day at 7am UTC
+  workflow_dispatch:      # Also allows manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml feedparser
+
+      - name: Run scraper
+        run: python scraper/scraper.py
+
+      - name: Commit and push updated funding.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/funding.json
+          git diff --cached --quiet || git commit -m "chore: update funding data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
