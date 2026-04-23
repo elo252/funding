@@ -1,5 +1,430 @@
 {
-  "last_updated": "2026-04-22T00:00:00+00:00",
-  "count": 0,
-  "items": []
+  "last_updated": "2026-04-22T22:14:40.375568+00:00",
+  "count": 23,
+  "items": [
+    {
+      "id": "602c85cf10",
+      "title": "NSF Graduate Research Fellowship Program (GRFP)",
+      "source": "NSF GRFP",
+      "type": "Fellowship",
+      "url": "https://www.nsfgrfp.org/",
+      "description": "The NSF GRFP recognizes and supports outstanding graduate students in NSF-supported STEM disciplines. Fellows receive a 3-year annual stipend of $37,000 along with a $16,000 cost of education allowance.",
+      "deadline": "October (annually)",
+      "amount": "$37,000/year stipend + $16,000 education allowance",
+      "posted": null,
+      "relevance_score": 8,
+      "tags": [
+        "NSF",
+        "Fellowship",
+        "Graduate",
+        "STEM",
+        "AI",
+        "Biomedical"
+      ]
+    },
+    {
+      "id": "f98ce4034e",
+      "title": "Hertz Graduate Fellowship Award",
+      "source": "Hertz Foundation",
+      "type": "Fellowship",
+      "url": "https://www.hertzfoundation.org/the-fellowship/",
+      "description": "empowering the most promising innovators The Hertz Fellowship The Hertz Fellowship provides financial and lifelong professional support for the nation’s most promising doctoral students in the applied sciences, engineering and mathematics. Awarded through a rigorous selection process honed over seven decades, Hertz Fellows receive up to five years of funding and join an influential community dedic",
+      "deadline": "October (annually)",
+      "amount": "~$34,000/year + tuition",
+      "posted": null,
+      "relevance_score": 7,
+      "tags": [
+        "Fellowship",
+        "Graduate",
+        "STEM",
+        "Prestigious"
+      ]
+    },
+    {
+      "id": "db49f0101e",
+      "title": "Ford Foundation Fellowship Programs",
+      "source": "Ford Foundation",
+      "type": "Fellowship",
+      "url": "https://www.nationalacademies.org/our-work/ford-foundation-fellowships",
+      "description": "Ford Foundation Predoctoral, Dissertation, and Postdoctoral Fellowships promote diversity in academia. Open to US citizens/nationals pursuing research-based PhDs across STEM and social sciences.",
+      "deadline": "December (annually)",
+      "amount": "$27,000/year (predoctoral)",
+      "posted": null,
+      "relevance_score": 6,
+      "tags": [
+        "Fellowship",
+        "Diversity",
+        "Graduate",
+        "Predoctoral"
+      ]
+    },
+    {
+      "id": "9fa51d697e",
+      "title": "Shenoy Undergraduate Research Fellowship in Neuroscience (SURFiN)",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/shenoy-undergraduate-research-fellowship-in-neuroscience-surfin/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 2,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "87a1cb9224",
+      "title": "Pivot Fellowship",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/pivot-fellowship/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "f39300d7ab",
+      "title": "Centers of Excellence in Ukraine",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/centers-of-excellence-in-ukraine/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "8143352966",
+      "title": "Simons Dissertation Fellowship in Mathematics",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "ab2aa5c309",
+      "title": "Simons Postdoctoral Fellowships in Plant Biology",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "2bb3244ad6",
+      "title": "Targeted Grants in MPS",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/targeted-grants-in-mps/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "28f381c912",
+      "title": "Simons Foundation Autism & Neuroscience Conferences and Courses Awards",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-foundation-autism-neuroscience-conferences-and-courses-awards/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "8de3619d91",
+      "title": "Simons Collaborations in Ecology and Evolution",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-collaborations-in-ecology-and-evolution/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "c8e51179f7",
+      "title": "Conference Support for Rare Neurodevelopmental Disorder Communities Participating in Simons Searchlight",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.sfari.org/grant/conference-support-for-rare-neurodevelopmental-disorder-communities-in-simons-searchlight/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "91ba3badcc",
+      "title": "Travel Support for Mathematicians",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "2b624c9e33",
+      "title": "Scientific Software Research Faculty Award",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "5c8bfc26ea",
+      "title": "Fellows-to-Faculty Award",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "09938dd15e",
+      "title": "SPARK Research Match Expansion — Request for Applications",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "6297a5ab6e",
+      "title": "Simons Symposia",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-symposia-program/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "5e75cce0a3",
+      "title": "scientific disciplines",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/science-we-support",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "ba915539b7",
+      "title": "hundreds of institutions",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/eligible-institutions",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "884cab15a2",
+      "title": "Gilliam Fellows Annual competition",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/gilliam-fellows",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "daf80222a1",
+      "title": "Hanna Gray Fellows Competition every 2 years",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/hanna-h-gray-fellows",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "ad869dac62",
+      "title": "Freeman Hrabowski Scholars Competition every 2 years",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/freeman-hrabowski-scholars",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "be2643747c",
+      "title": "Investigators Competition every 5 years",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/investigators",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    }
+  ]
 }

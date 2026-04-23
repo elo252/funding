@@ -3,99 +3,155 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>FundingRadar — AI & BioMed PhD Grants</title>
+  <title>FundingRadar — Tripathi Lab · Brown University</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet" />
 </head>
 <body>
 
-  <div class="scanline"></div>
+  <!-- TOP BAR -->
+  <div class="topbar">
+    <div class="topbar-inner">
+      <span>Tripathi Biomedical Engineering Lab · Brown University</span>
+      <span id="lastUpdated">Loading data...</span>
+    </div>
+  </div>
 
+  <!-- HEADER -->
   <header>
     <div class="header-inner">
-      <div class="logo">
-        <span class="logo-icon">◈</span>
+      <div class="logo-block">
+        <div class="logo-mark">
+          <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="24" cy="24" r="23" stroke="#4E3629" stroke-width="2"/>
+            <path d="M14 24 Q19 14 24 24 Q29 34 34 24" stroke="#4E3629" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+            <path d="M14 19 Q19 9 24 19 Q29 29 34 19" stroke="#C41E3A" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.55"/>
+            <path d="M14 29 Q19 19 24 29 Q29 39 34 29" stroke="#C41E3A" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.55"/>
+          </svg>
+        </div>
         <div>
           <h1>FundingRadar</h1>
-          <p class="subtitle">AI &amp; BioMed PhD · Grant Intelligence</p>
+          <p class="tagline">AI &amp; Biomedical Research Funding Intelligence</p>
         </div>
       </div>
-      <div class="header-meta">
-        <div class="last-updated" id="lastUpdated">Loading...</div>
-        <button class="refresh-btn" id="refreshBtn" onclick="loadData()">↻ Refresh</button>
+      <div class="header-right">
+        <a href="https://tripathi.engin.brown.edu" target="_blank" class="lab-link">Tripathi Lab ↗</a>
+        <button class="refresh-btn" onclick="loadData()">↻ Refresh</button>
       </div>
     </div>
   </header>
 
-  <div class="controls">
-    <div class="search-wrap">
-      <input type="text" id="searchInput" placeholder="Search grants, fellowships, keywords..." oninput="applyFilters()" />
-      <span class="search-icon">⌕</span>
-    </div>
-    <div class="filter-row">
-      <div class="filter-group">
-        <label>TYPE</label>
-        <div class="pills" id="typeFilters"></div>
-      </div>
-      <div class="filter-group">
-        <label>SOURCE</label>
-        <div class="pills" id="sourceFilters"></div>
-      </div>
-      <div class="filter-group">
-        <label>RELEVANCE</label>
-        <select id="relevanceFilter" onchange="applyFilters()">
-          <option value="0">All</option>
-          <option value="2">Moderate match (2+)</option>
-          <option value="4">Strong match (4+)</option>
-          <option value="6">Best match (6+)</option>
-        </select>
-      </div>
-      <div class="filter-group">
-        <label>SORT BY</label>
-        <select id="sortBy" onchange="applyFilters()">
-          <option value="relevance">Relevance</option>
-          <option value="newest">Newest</option>
-          <option value="source">Source</option>
-        </select>
+  <!-- HERO BAND -->
+  <div class="hero-band">
+    <div class="hero-inner">
+      <p class="hero-text">Automatically curated grants, fellowships &amp; funding opportunities for PhD researchers in AI and Biomedical Engineering — updated daily.</p>
+      <div class="stats-row" id="statsBar">
+        <div class="stat-item"><strong id="totalCount">—</strong><span>Opportunities</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><strong id="fellowshipCount">—</strong><span>Fellowships</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><strong id="federalCount">—</strong><span>Federal Grants</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><strong id="privateCount">—</strong><span>Private Foundations</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><strong id="bookmarkCount">—</strong><span>Saved</span></div>
       </div>
     </div>
   </div>
 
-  <div class="stats-bar" id="statsBar">
-    <div class="stat"><span id="totalCount">—</span><small>TOTAL</small></div>
-    <div class="stat"><span id="fellowshipCount">—</span><small>FELLOWSHIPS</small></div>
-    <div class="stat"><span id="federalCount">—</span><small>FEDERAL GRANTS</small></div>
-    <div class="stat"><span id="privateCount">—</span><small>PRIVATE FOUNDATION</small></div>
-    <div class="stat"><span id="bookmarkCount">—</span><small>BOOKMARKED</small></div>
+  <!-- CONTROLS -->
+  <div class="controls-bar">
+    <div class="controls-inner">
+      <div class="search-wrap">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 16 16" fill="none">
+          <circle cx="6.5" cy="6.5" r="5.5" stroke="#888" stroke-width="1.5"/>
+          <path d="M11 11L14.5 14.5" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <input type="text" id="searchInput" placeholder="Search grants, fellowships, keywords..." oninput="applyFilters()" />
+      </div>
+      <div class="filter-row">
+        <div class="filter-group">
+          <label class="filter-label">Type</label>
+          <div class="pills" id="typeFilters"></div>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Source</label>
+          <div class="pills" id="sourceFilters"></div>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Relevance</label>
+          <select id="relevanceFilter" onchange="applyFilters()">
+            <option value="0">All levels</option>
+            <option value="2">Moderate (2+)</option>
+            <option value="4">Strong (4+)</option>
+            <option value="6">Best match (6+)</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Sort by</label>
+          <select id="sortBy" onchange="applyFilters()">
+            <option value="relevance">Relevance</option>
+            <option value="newest">Most Recent</option>
+            <option value="source">Source</option>
+          </select>
+        </div>
+      </div>
+    </div>
   </div>
 
-  <main>
-    <div class="tab-bar">
+  <!-- TABS -->
+  <div class="tabs-bar">
+    <div class="tabs-inner">
       <button class="tab active" onclick="switchTab('all', this)">All Opportunities</button>
-      <button class="tab" onclick="switchTab('bookmarks', this)">★ Bookmarked</button>
+      <button class="tab" onclick="switchTab('bookmarks', this)">★ Saved</button>
     </div>
+  </div>
 
-    <div id="loadingState" class="loading-state">
+  <!-- MAIN -->
+  <main>
+    <div id="loadingState" class="state-box">
       <div class="spinner"></div>
       <p>Fetching funding opportunities...</p>
     </div>
-
-    <div id="errorState" class="error-state" style="display:none">
-      <p>⚠ Could not load funding data.</p>
+    <div id="errorState" class="state-box error" style="display:none">
+      <div class="error-icon">⚠</div>
+      <p><strong>Could not load funding data.</strong></p>
       <p class="error-detail" id="errorDetail"></p>
-      <p>Make sure your <code>data/funding.json</code> is committed to your repo and the RAW_URL in <code>app.js</code> is correct.</p>
+      <p class="error-hint">Update <code>RAW_URL</code> in <code>app.js</code> to point to your GitHub repo's raw funding.json.</p>
     </div>
-
     <div id="grid" class="grid" style="display:none"></div>
-    <div id="emptyState" class="empty-state" style="display:none">
-      <p>No opportunities match your filters.</p>
+    <div id="emptyState" class="state-box" style="display:none">
+      <p>No opportunities match your current filters.</p>
+      <button class="clear-btn" onclick="resetFilters()">Clear All Filters</button>
     </div>
   </main>
 
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-col">
+        <div class="footer-logo">FundingRadar</div>
+        <p>A research tool by the Tripathi Biomedical Engineering Lab at Brown University.</p>
+      </div>
+      <div class="footer-col">
+        <strong>Sources</strong>
+        <p>NIH · NSF · Grants.gov · Wellcome Trust · Simons Foundation · HHMI · Hertz · Ford · ProFellow</p>
+      </div>
+      <div class="footer-col">
+        <strong>Contact</strong>
+        <p>91 Waterman St, Providence, RI 02912<br/>tripathi_lab@brown.edu</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © 2026 Tripathi Biomedical Engineering Group · Brown University · Data refreshed daily via GitHub Actions
+    </div>
+  </footer>
+
+  <!-- MODAL -->
   <div id="modal" class="modal-overlay" style="display:none" onclick="closeModal(event)">
     <div class="modal-box">
-      <button class="modal-close" onclick="closeModal()">✕</button>
+      <button class="modal-close" onclick="closeModal()">✕ Close</button>
       <div id="modalContent"></div>
     </div>
   </div>

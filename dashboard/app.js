@@ -2,7 +2,7 @@
 // CONFIGURATION — update RAW_URL to your own repo's raw URL
 // Format: https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/funding.json
 // ─────────────────────────────────────────────────────────────
-const RAW_URL = "https://raw.githubusercontent.com/elo252/funding/main/data/funding.json";
+const RAW_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/funding.json";
 
 // ─── STATE ───
 let allItems = [];
