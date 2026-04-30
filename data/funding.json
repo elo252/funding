@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T09:07:10.669919+00:00",
-  "count": 23,
+  "last_updated": "2026-04-30T09:08:51.394473+00:00",
+  "count": 30,
   "items": [
     {
       "id": "602c85cf10",
@@ -78,6 +78,23 @@
       ]
     },
     {
+      "id": "c9ffebc174",
+      "title": "Fellowship & Fully Funded Graduate School Lists",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/",
+      "description": "The Woodrow Wilson Teaching Fellowship was a 3-year fellowship for talented individuals with Science, Technology, Engineering and Math (STEM) backgrounds who are interested in teaching in high-needs secondary schools. Fellows come from a wide range of backgrounds, but share in their commitment to ST",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 2,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
       "id": "87a1cb9224",
       "title": "Pivot Fellowship",
       "source": "Simons Foundation",
@@ -145,6 +162,110 @@
       "amount": null,
       "posted": null,
       "relevance_score": 1,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "04f306ec10",
+      "title": "Careers in Global Affairs: Opportunities to Enter, Advance In, and Navigate the Field",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/careers-in-global-affairs-opportunities-to-enter-advance-in-and-navigate-the-field/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "8d6344894b",
+      "title": "9 Postdoctoral Fellowships in the United Kingdom for Early Stage and Experienced Scholars",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/9-postdoctoral-fellowships-in-the-uk/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "0774a84687",
+      "title": "12 Public Interest Law Fellowships for Lawyers and Law School Students",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/12-public-interest-law-fellowships-for-lawyers-and-law-school-students/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "7c64c4c999",
+      "title": "Ojas Sanghi on Winning the Udall and Truman Scholarships and Researching AI at MIT",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/interviews/ojas-sanghi-on-winning-the-udall-and-truman-scholarships-and-researching-ai-at-mit/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "6e2a0f06ef",
+      "title": "8 Nutrition Fellowships for All Career Levels",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/10-nutrition-fellowships-for-all-career-levels/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "184f7b947b",
+      "title": "New Ideas — Request for Applications",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.sfari.org/grant/new-ideas-request-for-applications/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
       "tags": [
         "Simons",
         "Private",
@@ -306,25 +427,6 @@
       ]
     },
     {
-      "id": "6297a5ab6e",
-      "title": "Simons Symposia",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/simons-symposia-program/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
       "id": "5e75cce0a3",
       "title": "scientific disciplines",
       "source": "HHMI",
@@ -424,6 +526,23 @@
         "HHMI",
         "Biomedical",
         "Life Sciences"
+      ]
+    },
+    {
+      "id": "49fcdffcbc",
+      "title": "Careers in Environmental Science: Opportunities to Enter, Advance In, and Navigate the Field",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/careers-in-environmental-science-opportunities-to-enter-advance-in-and-navigate-the-field/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     }
   ]
