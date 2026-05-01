@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T09:08:51.394473+00:00",
+  "last_updated": "2026-05-01T08:56:45.493611+00:00",
   "count": 30,
   "items": [
     {
@@ -56,6 +56,25 @@
         "Diversity",
         "Graduate",
         "Predoctoral"
+      ]
+    },
+    {
+      "id": "3065518812",
+      "title": "Simons Graduate Fellowships in Ecology and Evolution",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-graduate-fellowships-in-ecology-and-evolution/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 2,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
       ]
     },
     {
@@ -138,25 +157,6 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "ab2aa5c309",
-      "title": "Simons Postdoctoral Fellowships in Plant Biology",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/",
       "description": "",
       "deadline": null,
       "amount": null,
