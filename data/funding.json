@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T09:42:54.569962+00:00",
+  "last_updated": "2026-05-16T08:45:57.551001+00:00",
   "count": 30,
   "items": [
     {
@@ -114,11 +114,11 @@
       ]
     },
     {
-      "id": "87a1cb9224",
-      "title": "Pivot Fellowship",
+      "id": "f39300d7ab",
+      "title": "Centers of Excellence in Ukraine",
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/pivot-fellowship/",
+      "url": "https://www.simonsfoundation.org/grant/centers-of-excellence-in-ukraine/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -133,11 +133,11 @@
       ]
     },
     {
-      "id": "f39300d7ab",
-      "title": "Centers of Excellence in Ukraine",
+      "id": "87a1cb9224",
+      "title": "Pivot Fellowship",
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/centers-of-excellence-in-ukraine/",
+      "url": "https://www.simonsfoundation.org/grant/pivot-fellowship/",
       "description": "",
       "deadline": null,
       "amount": null,
