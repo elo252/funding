@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T11:03:16.380448+00:00",
+  "last_updated": "2026-05-19T10:35:24.221503+00:00",
   "count": 30,
   "items": [
     {
@@ -227,23 +227,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/interviews/ojas-sanghi-on-winning-the-udall-and-truman-scholarships-and-researching-ai-at-mit/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "6e2a0f06ef",
-      "title": "8 Nutrition Fellowships for All Career Levels",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/10-nutrition-fellowships-for-all-career-levels/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -526,6 +509,23 @@
         "HHMI",
         "Biomedical",
         "Life Sciences"
+      ]
+    },
+    {
+      "id": "7dde278508",
+      "title": "Fully Funded Master’s Programs in Education",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/fully-funded-ma-m-ed-in-education/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
