@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T09:18:12.896646+00:00",
+  "last_updated": "2026-05-25T11:06:43.481041+00:00",
   "count": 30,
   "items": [
     {
@@ -210,23 +210,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/fellowships/12-public-interest-law-fellowships-for-lawyers-and-law-school-students/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "7c64c4c999",
-      "title": "Ojas Sanghi on Winning the Udall and Truman Scholarships and Researching AI at MIT",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/interviews/ojas-sanghi-on-winning-the-udall-and-truman-scholarships-and-researching-ai-at-mit/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -509,6 +492,23 @@
         "HHMI",
         "Biomedical",
         "Life Sciences"
+      ]
+    },
+    {
+      "id": "2b55c0d812",
+      "title": "Fully Funded Master’s Programs in Political Science",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-political-science/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
