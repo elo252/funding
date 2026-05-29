@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T10:51:22.238067+00:00",
-  "count": 25,
+  "last_updated": "2026-05-29T10:41:18.490690+00:00",
+  "count": 30,
   "items": [
     {
       "id": "602c85cf10",
@@ -56,23 +56,6 @@
         "Diversity",
         "Graduate",
         "Predoctoral"
-      ]
-    },
-    {
-      "id": "e8c6ac464e",
-      "title": "HHMI Investigator & Fellowship Programs",
-      "source": "HHMI",
-      "type": "Private Foundation Grant",
-      "url": "https://www.hhmi.org/programs",
-      "description": "HHMI supports exceptional biomedical scientists through investigator programs and various fellowship opportunities.",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 5,
-      "tags": [
-        "HHMI",
-        "Biomedical",
-        "Life Sciences"
       ]
     },
     {
@@ -277,6 +260,25 @@
       ]
     },
     {
+      "id": "8bce7ff063",
+      "title": "Synthetic Plant Biology",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/synthetic-plant-biology/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
       "id": "28f381c912",
       "title": "Simons Foundation Autism & Neuroscience Conferences and Courses Awards",
       "source": "Simons Foundation",
@@ -391,22 +393,105 @@
       ]
     },
     {
-      "id": "09938dd15e",
-      "title": "SPARK Research Match Expansion — Request for Applications",
-      "source": "Simons Foundation",
+      "id": "5e75cce0a3",
+      "title": "scientific disciplines",
+      "source": "HHMI",
       "type": "Private Foundation Grant",
-      "url": "https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/",
+      "url": "https://www.hhmi.org/programs/science-we-support",
       "description": "",
       "deadline": null,
       "amount": null,
       "posted": null,
       "relevance_score": 0,
       "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "ba915539b7",
+      "title": "hundreds of institutions",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/eligible-institutions",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "884cab15a2",
+      "title": "Gilliam Fellows Annual competition",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/gilliam-fellows",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "daf80222a1",
+      "title": "Hanna Gray Fellows Competition every 2 years",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/hanna-h-gray-fellows",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "ad869dac62",
+      "title": "Freeman Hrabowski Scholars Competition every 2 years",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/freeman-hrabowski-scholars",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "be2643747c",
+      "title": "Investigators Competition every 5 years",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/investigators",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
       ]
     },
     {
