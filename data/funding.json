@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T10:36:25.419023+00:00",
-  "count": 23,
+  "last_updated": "2026-06-05T10:43:18.606656+00:00",
+  "count": 30,
   "items": [
     {
       "id": "602c85cf10",
@@ -97,6 +97,23 @@
       ]
     },
     {
+      "id": "c9ffebc174",
+      "title": "Fellowship & Fully Funded Graduate School Lists",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/",
+      "description": "The Woodrow Wilson Teaching Fellowship was a 3-year fellowship for talented individuals with Science, Technology, Engineering and Math (STEM) backgrounds who are interested in teaching in high-needs secondary schools. Fellows come from a wide range of backgrounds, but share in their commitment to ST",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 2,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
       "id": "f39300d7ab",
       "title": "Centers of Excellence in Ukraine",
       "source": "Simons Foundation",
@@ -151,6 +168,57 @@
         "Math",
         "Life Sciences",
         "AI"
+      ]
+    },
+    {
+      "id": "cbda67bd8f",
+      "title": "31 Science Policy Fellowships for Scientists and Science Advocates",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/science-policy-fellowships-for-scientists-and-science-advocates/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "ac98edc3b8",
+      "title": "Fully Funded PhD Programs In Business",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/fully-funded-phd-programs-in-business/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "04f306ec10",
+      "title": "Careers in Global Affairs: Opportunities to Enter, Advance In, and Navigate the Field",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/careers-in-global-affairs-opportunities-to-enter-advance-in-and-navigate-the-field/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
@@ -424,6 +492,57 @@
         "HHMI",
         "Biomedical",
         "Life Sciences"
+      ]
+    },
+    {
+      "id": "2b55c0d812",
+      "title": "Fully Funded Master’s Programs in Political Science",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-political-science/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "7dde278508",
+      "title": "Fully Funded Master’s Programs in Education",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/fully-funded-ma-m-ed-in-education/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
+      "id": "9b2564e2da",
+      "title": "New and Specialty Fulbright U.S. Student Awards for 2027–2028",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/new-and-specialty-fulbright-u-s-student-awards-for-2027-2028/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     }
   ]
