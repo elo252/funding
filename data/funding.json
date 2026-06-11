@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T10:52:24.072130+00:00",
+  "last_updated": "2026-06-11T11:19:45.917870+00:00",
   "count": 30,
   "items": [
     {
@@ -171,6 +171,23 @@
       ]
     },
     {
+      "id": "92277d4067",
+      "title": "10 Fellowships for Early and Mid-Career Nurses",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/10-fellowships-for-early-and-mid-career-nurses/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
       "id": "cbda67bd8f",
       "title": "31 Science Policy Fellowships for Scientists and Science Advocates",
       "source": "ProFellow",
@@ -193,23 +210,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/fellowships/fully-funded-phd-programs-in-business/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "04f306ec10",
-      "title": "Careers in Global Affairs: Opportunities to Enter, Advance In, and Navigate the Field",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/careers-in-global-affairs-opportunities-to-enter-advance-in-and-navigate-the-field/",
       "description": "",
       "deadline": null,
       "amount": null,
