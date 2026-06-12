@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T11:19:45.917870+00:00",
+  "last_updated": "2026-06-12T10:58:03.593438+00:00",
   "count": 30,
   "items": [
     {
@@ -168,6 +168,23 @@
         "Math",
         "Life Sciences",
         "AI"
+      ]
+    },
+    {
+      "id": "2fc3577f72",
+      "title": "10 Interdisciplinary Fellowships in Psychology",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/interdisciplinary-fellowships-in-psychology/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
@@ -517,23 +534,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/fellowships/fully-funded-ma-m-ed-in-education/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "9b2564e2da",
-      "title": "New and Specialty Fulbright U.S. Student Awards for 2027–2028",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/new-and-specialty-fulbright-u-s-student-awards-for-2027-2028/",
       "description": "",
       "deadline": null,
       "amount": null,
