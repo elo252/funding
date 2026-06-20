@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T11:16:53.586242+00:00",
-  "count": 30,
+  "last_updated": "2026-06-20T09:59:05.897072+00:00",
+  "count": 23,
   "items": [
     {
       "id": "602c85cf10",
@@ -97,23 +97,6 @@
       ]
     },
     {
-      "id": "c9ffebc174",
-      "title": "Fellowship & Fully Funded Graduate School Lists",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/",
-      "description": "The Woodrow Wilson Teaching Fellowship was a 3-year fellowship for talented individuals with Science, Technology, Engineering and Math (STEM) backgrounds who are interested in teaching in high-needs secondary schools. Fellows come from a wide range of backgrounds, but share in their commitment to ST",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 2,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
       "id": "f39300d7ab",
       "title": "Centers of Excellence in Ukraine",
       "source": "Simons Foundation",
@@ -168,74 +151,6 @@
         "Math",
         "Life Sciences",
         "AI"
-      ]
-    },
-    {
-      "id": "2fc3577f72",
-      "title": "10 Interdisciplinary Fellowships in Psychology",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/interdisciplinary-fellowships-in-psychology/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "92277d4067",
-      "title": "10 Fellowships for Early and Mid-Career Nurses",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/10-fellowships-for-early-and-mid-career-nurses/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "cbda67bd8f",
-      "title": "31 Science Policy Fellowships for Scientists and Science Advocates",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/science-policy-fellowships-for-scientists-and-science-advocates/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "ac98edc3b8",
-      "title": "Fully Funded PhD Programs In Business",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/fully-funded-phd-programs-in-business/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
       ]
     },
     {
@@ -509,40 +424,6 @@
         "HHMI",
         "Biomedical",
         "Life Sciences"
-      ]
-    },
-    {
-      "id": "5220059b08",
-      "title": "Careers in Urban Planning: Opportunities to Enter, Advance In, and Navigate the Field",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/careers-in-urban-planning-opportunities-to-enter-advance-in-and-navigate-the-field/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "2b55c0d812",
-      "title": "Fully Funded Master’s Programs in Political Science",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-political-science/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
       ]
     }
   ]
