@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T12:45:20.821691+00:00",
+  "last_updated": "2026-06-23T10:32:41.041157+00:00",
   "count": 30,
   "items": [
     {
@@ -258,6 +258,63 @@
       ]
     },
     {
+      "id": "8ab9ff7f12",
+      "title": "Junior Fellows of the Simons Society of Fellows Request for Nominations",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "8188f4b773",
+      "title": "Targeted Grants to Institutes",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "c36f33082d",
+      "title": "Simons Collaborations in Mathematics and the Physical Sciences",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
       "id": "184f7b947b",
       "title": "New Ideas — Request for Applications",
       "source": "Simons Foundation",
@@ -339,63 +396,6 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.sfari.org/grant/conference-support-for-rare-neurodevelopmental-disorder-communities-in-simons-searchlight/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "91ba3badcc",
-      "title": "Travel Support for Mathematicians",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "2b624c9e33",
-      "title": "Scientific Software Research Faculty Award",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "5c8bfc26ea",
-      "title": "Fellows-to-Faculty Award",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
       "description": "",
       "deadline": null,
       "amount": null,
