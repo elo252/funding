@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T10:39:11.818432+00:00",
+  "last_updated": "2026-07-02T09:56:55.774714+00:00",
   "count": 30,
   "items": [
     {
@@ -169,25 +169,6 @@
       ]
     },
     {
-      "id": "8143352966",
-      "title": "Simons Dissertation Fellowship in Mathematics",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
       "id": "2fc3577f72",
       "title": "10 Interdisciplinary Fellowships in Psychology",
       "source": "ProFellow",
@@ -299,6 +280,25 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "f23494fdcf",
+      "title": "Simons Fellows in Mathematics",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/",
       "description": "",
       "deadline": null,
       "amount": null,
