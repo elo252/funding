@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T09:52:42.267360+00:00",
+  "last_updated": "2026-07-04T09:18:23.701330+00:00",
   "count": 30,
   "items": [
     {
@@ -208,23 +208,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/fellowships/science-policy-fellowships-for-scientists-and-science-advocates/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "ac98edc3b8",
-      "title": "Fully Funded PhD Programs In Business",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/fully-funded-phd-programs-in-business/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -526,6 +509,23 @@
         "HHMI",
         "Biomedical",
         "Life Sciences"
+      ]
+    },
+    {
+      "id": "a4d5976c5b",
+      "title": "Fully Funded Master’s Programs in Communications and Journalism",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-communications-and-journalism/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
