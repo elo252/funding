@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T09:26:32.514629+00:00",
+  "last_updated": "2026-07-31T09:38:37.857003+00:00",
   "count": 30,
   "items": [
     {
@@ -193,23 +193,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/fellowships/interdisciplinary-fellowships-in-psychology/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "92277d4067",
-      "title": "10 Fellowships for Early and Mid-Career Nurses",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/10-fellowships-for-early-and-mid-career-nurses/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -492,6 +475,23 @@
         "HHMI",
         "Biomedical",
         "Life Sciences"
+      ]
+    },
+    {
+      "id": "a1ed52c620",
+      "title": "Fully Funded Master’s Programs in Civil Engineering",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-civil-engineering/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
