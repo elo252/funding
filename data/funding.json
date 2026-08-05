@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T09:35:54.154945+00:00",
+  "last_updated": "2026-08-05T09:31:31.951299+00:00",
   "count": 30,
   "items": [
     {
@@ -64,25 +64,6 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/simons-graduate-fellowships-in-ecology-and-evolution/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 2,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "9fa51d697e",
-      "title": "Shenoy Undergraduate Research Fellowship in Neuroscience (SURFiN)",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/shenoy-undergraduate-research-fellowship-in-neuroscience-surfin/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -324,6 +305,25 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/targeted-grants-in-mps/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "db8f88c8d4",
+      "title": "Solar Radiation Management",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/solar-radiation-management/",
       "description": "",
       "deadline": null,
       "amount": null,
