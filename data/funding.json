@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T07:35:50.263158+00:00",
+  "last_updated": "2026-08-21T07:37:29.869500+00:00",
   "count": 30,
   "items": [
     {
@@ -149,6 +149,23 @@
         "Math",
         "Life Sciences",
         "AI"
+      ]
+    },
+    {
+      "id": "de6cc7e755",
+      "title": "17 Climate Tech Fellowships for Scientists and Entrepreneurs",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/climate-tech-fellowships-for-scientists-and-entrepreneurs/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
@@ -517,23 +534,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/fellowships/fully-funded-ms-and-ma-programs-in-chemistry/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "a4d5976c5b",
-      "title": "Fully Funded Master’s Programs in Communications and Journalism",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-communications-and-journalism/",
       "description": "",
       "deadline": null,
       "amount": null,
