@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T07:38:49.509330+00:00",
+  "last_updated": "2026-08-26T07:40:39.414509+00:00",
   "count": 30,
   "items": [
     {
@@ -478,6 +478,23 @@
       ]
     },
     {
+      "id": "735cefa50b",
+      "title": "From Namibia to Google, Snap, and Beyond: Sterling De Sutter Summerville on Building a Career in Cultural Intelligence",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/interviews/from-namibia-to-google-snap-and-beyond-sterling-de-sutter-summerville-on-building-a-career-in-cultural-intelligence/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
+      ]
+    },
+    {
       "id": "f3e53de308",
       "title": "Rotary Scholar Amanda Damewood on Trading Museum Studies for a Career in Civic Tech",
       "source": "ProFellow",
@@ -517,23 +534,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-civil-engineering/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "a754e10e4d",
-      "title": "Fully Funded Master’s Programs in Chemistry",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/fully-funded-ms-and-ma-programs-in-chemistry/",
       "description": "",
       "deadline": null,
       "amount": null,
