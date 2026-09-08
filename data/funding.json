@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T13:13:08.319349+00:00",
+  "last_updated": "2026-09-08T11:55:58.156959+00:00",
   "count": 30,
   "items": [
     {
@@ -149,6 +149,23 @@
         "Math",
         "Life Sciences",
         "AI"
+      ]
+    },
+    {
+      "id": "3dfdf2537a",
+      "title": "From Microsoft Engineer to Capitol Hill: Julie Lin on Building MyCapitol After a TechCongress Fellowship",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/interviews/from-microsoft-engineer-to-capitol-hill-julie-lin-on-building-mycapitol-after-a-techcongress-fellowship/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
@@ -517,23 +534,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/interviews/how-emma-sarazin-advanced-her-justice-work-through-the-trinity-fellows-program/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "a1ed52c620",
-      "title": "Fully Funded Master’s Programs in Civil Engineering",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-civil-engineering/",
       "description": "",
       "deadline": null,
       "amount": null,
