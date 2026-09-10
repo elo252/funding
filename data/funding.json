@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T12:06:00.370475+00:00",
-  "count": 30,
+  "last_updated": "2026-09-10T12:00:19.466621+00:00",
+  "count": 31,
   "items": [
     {
       "id": "602c85cf10",
@@ -427,28 +427,11 @@
       ]
     },
     {
-      "id": "884cab15a2",
-      "title": "Gilliam Fellows Annual competition",
+      "id": "be2643747c",
+      "title": "Investigators competition every 5 years",
       "source": "HHMI",
       "type": "Private Foundation Grant",
-      "url": "https://www.hhmi.org/programs/gilliam-fellows",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "HHMI",
-        "Biomedical",
-        "Life Sciences"
-      ]
-    },
-    {
-      "id": "daf80222a1",
-      "title": "Hanna Gray Fellows Competition every 2 years",
-      "source": "HHMI",
-      "type": "Private Foundation Grant",
-      "url": "https://www.hhmi.org/programs/hanna-h-gray-fellows",
+      "url": "https://www.hhmi.org/programs/investigators",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -462,7 +445,7 @@
     },
     {
       "id": "ad869dac62",
-      "title": "Freeman Hrabowski Scholars Competition every 2 years",
+      "title": "Freeman Hrabowski Scholars biennial competition",
       "source": "HHMI",
       "type": "Private Foundation Grant",
       "url": "https://www.hhmi.org/programs/freeman-hrabowski-scholars",
@@ -478,11 +461,11 @@
       ]
     },
     {
-      "id": "be2643747c",
-      "title": "Investigators Competition every 5 years",
+      "id": "daf80222a1",
+      "title": "Hanna Gray Fellows biennial competition",
       "source": "HHMI",
       "type": "Private Foundation Grant",
-      "url": "https://www.hhmi.org/programs/investigators",
+      "url": "https://www.hhmi.org/programs/hanna-h-gray-fellows",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -492,6 +475,57 @@
         "HHMI",
         "Biomedical",
         "Life Sciences"
+      ]
+    },
+    {
+      "id": "884cab15a2",
+      "title": "Gilliam Fellows annual competition",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/gilliam-fellows",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "1f52ea1f6d",
+      "title": "Cech Fellows annual competition",
+      "source": "HHMI",
+      "type": "Private Foundation Grant",
+      "url": "https://www.hhmi.org/programs/cech-fellows",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "HHMI",
+        "Biomedical",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "914bdfc307",
+      "title": "Fully Funded Master’s Programs in Criminal Justice and Criminology",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/fully-funded-masters-programs-in-criminal-justice/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
@@ -517,23 +551,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/interviews/rotary-scholar-amanda-damewood-on-trading-museum-studies-for-a-career-in-civic-tech/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "a093cf5128",
-      "title": "How Emma Sarazin Advanced Her Justice Work Through the Trinity Fellows Program",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/interviews/how-emma-sarazin-advanced-her-justice-work-through-the-trinity-fellows-program/",
       "description": "",
       "deadline": null,
       "amount": null,
