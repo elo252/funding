@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T11:58:49.621379+00:00",
+  "last_updated": "2026-09-12T11:25:22.375052+00:00",
   "count": 24,
   "items": [
     {
@@ -126,25 +126,6 @@
       "amount": null,
       "posted": null,
       "relevance_score": 1,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "8ab9ff7f12",
-      "title": "Junior Fellows of the Simons Society of Fellows",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
       "tags": [
         "Simons",
         "Private",
@@ -292,6 +273,25 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/simons-centers-of-excellence-at-historically-black-colleges-and-universities/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "8ab9ff7f12",
+      "title": "Junior Fellows of the Simons Society of Fellows",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/",
       "description": "",
       "deadline": null,
       "amount": null,
