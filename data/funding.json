@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T12:24:34.389072+00:00",
+  "last_updated": "2026-09-16T12:21:57.813831+00:00",
   "count": 31,
   "items": [
     {
@@ -100,6 +100,25 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "f39300d7ab",
+      "title": "Centers of Excellence in Ukraine",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/centers-of-excellence-in-ukraine/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -260,30 +279,11 @@
       ]
     },
     {
-      "id": "2b624c9e33",
-      "title": "Scientific Software Research Faculty Award",
+      "id": "b5f0814c97",
+      "title": "Galaxy Formation Group Meeting",
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "184f7b947b",
-      "title": "New Ideas — Request for Applications",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.sfari.org/grant/new-ideas-request-for-applications/",
+      "url": "https://www.simonsfoundation.org/?p=39996",
       "description": "",
       "deadline": null,
       "amount": null,
