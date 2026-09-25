@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T12:28:44.485782+00:00",
+  "last_updated": "2026-09-25T12:30:08.679449+00:00",
   "count": 31,
   "items": [
     {
@@ -100,25 +100,6 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 1,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "f39300d7ab",
-      "title": "Centers of Excellence in Ukraine",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/centers-of-excellence-in-ukraine/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -324,6 +305,25 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "5c8bfc26ea",
+      "title": "Fellows-to-Faculty Award",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
       "description": "",
       "deadline": null,
       "amount": null,
