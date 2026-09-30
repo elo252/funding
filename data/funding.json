@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T13:40:37.229789+00:00",
+  "last_updated": "2026-09-30T13:14:56.893233+00:00",
   "count": 31,
   "items": [
     {
@@ -111,6 +111,23 @@
         "Math",
         "Life Sciences",
         "AI"
+      ]
+    },
+    {
+      "id": "24aaec55fc",
+      "title": "Postdoctoral Fellowships in Science with Fall Deadlines",
+      "source": "ProFellow",
+      "type": "Fellowship",
+      "url": "https://www.profellow.com/fellowships/postdoctoral-fellowships-in-science-with-fall-deadlines/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Fellowship",
+        "STEM",
+        "Aggregator"
       ]
     },
     {
@@ -534,23 +551,6 @@
       "source": "ProFellow",
       "type": "Fellowship",
       "url": "https://www.profellow.com/interviews/from-namibia-to-google-snap-and-beyond-sterling-de-sutter-summerville-on-building-a-career-in-cultural-intelligence/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Fellowship",
-        "STEM",
-        "Aggregator"
-      ]
-    },
-    {
-      "id": "f3e53de308",
-      "title": "Rotary Scholar Amanda Damewood on Trading Museum Studies for a Career in Civic Tech",
-      "source": "ProFellow",
-      "type": "Fellowship",
-      "url": "https://www.profellow.com/interviews/rotary-scholar-amanda-damewood-on-trading-museum-studies-for-a-career-in-civic-tech/",
       "description": "",
       "deadline": null,
       "amount": null,
