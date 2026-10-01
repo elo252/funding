@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T13:14:56.893233+00:00",
+  "last_updated": "2026-10-01T14:06:21.161013+00:00",
   "count": 31,
   "items": [
     {
@@ -165,44 +165,6 @@
       ]
     },
     {
-      "id": "6297a5ab6e",
-      "title": "Simons Symposia",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/simons-symposia-program/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "8188f4b773",
-      "title": "Targeted Grants to Institutes",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
       "id": "f23494fdcf",
       "title": "Simons Fellows in Mathematics",
       "source": "Simons Foundation",
@@ -260,44 +222,6 @@
       ]
     },
     {
-      "id": "184f7b947b",
-      "title": "New Ideas — Request for Applications",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.sfari.org/grant/new-ideas-request-for-applications/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "2bb3244ad6",
-      "title": "Targeted Grants in MPS",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/targeted-grants-in-mps/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
       "id": "5427a425f1",
       "title": "Simons Centers of Excellence at Historically Black Colleges and Universities",
       "source": "Simons Foundation",
@@ -336,11 +260,87 @@
       ]
     },
     {
+      "id": "184f7b947b",
+      "title": "New Ideas — Request for Applications",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.sfari.org/grant/new-ideas-request-for-applications/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "2bb3244ad6",
+      "title": "Targeted Grants in MPS",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/targeted-grants-in-mps/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
       "id": "5c8bfc26ea",
       "title": "Fellows-to-Faculty Award",
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "8188f4b773",
+      "title": "Targeted Grants to Institutes",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "6297a5ab6e",
+      "title": "Simons Symposia",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-symposia-program/",
       "description": "",
       "deadline": null,
       "amount": null,
