@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T14:06:21.161013+00:00",
+  "last_updated": "2026-10-02T13:27:40.086311+00:00",
   "count": 31,
   "items": [
     {
@@ -100,6 +100,25 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "ab2aa5c309",
+      "title": "Simons Postdoctoral Fellowships in Plant Biology",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -279,6 +298,25 @@
       ]
     },
     {
+      "id": "09938dd15e",
+      "title": "SPARK Research Match Expansion — Request for Applications",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
       "id": "2bb3244ad6",
       "title": "Targeted Grants in MPS",
       "source": "Simons Foundation",
@@ -341,44 +379,6 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/simons-symposia-program/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "8ab9ff7f12",
-      "title": "Junior Fellows of the Simons Society of Fellows",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "8bce7ff063",
-      "title": "Synthetic Plant Biology",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/synthetic-plant-biology/",
       "description": "",
       "deadline": null,
       "amount": null,
