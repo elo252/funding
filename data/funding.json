@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T13:27:40.086311+00:00",
+  "last_updated": "2026-10-03T12:10:54.280574+00:00",
   "count": 31,
   "items": [
     {
@@ -184,25 +184,6 @@
       ]
     },
     {
-      "id": "f23494fdcf",
-      "title": "Simons Fellows in Mathematics",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
       "id": "db8f88c8d4",
       "title": "Solar Radiation Management",
       "source": "Simons Foundation",
@@ -341,6 +322,25 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 0,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "f23494fdcf",
+      "title": "Simons Fellows in Mathematics",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/",
       "description": "",
       "deadline": null,
       "amount": null,
