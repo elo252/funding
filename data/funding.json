@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T12:59:55.851997+00:00",
+  "last_updated": "2026-10-05T15:28:46.016039+00:00",
   "count": 31,
   "items": [
     {
@@ -100,6 +100,25 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/",
+      "description": "",
+      "deadline": null,
+      "amount": null,
+      "posted": null,
+      "relevance_score": 1,
+      "tags": [
+        "Simons",
+        "Private",
+        "Math",
+        "Life Sciences",
+        "AI"
+      ]
+    },
+    {
+      "id": "8143352966",
+      "title": "Simons Dissertation Fellowship in Mathematics",
+      "source": "Simons Foundation",
+      "type": "Private Foundation Grant",
+      "url": "https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/",
       "description": "",
       "deadline": null,
       "amount": null,
@@ -360,25 +379,6 @@
       "source": "Simons Foundation",
       "type": "Private Foundation Grant",
       "url": "https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/",
-      "description": "",
-      "deadline": null,
-      "amount": null,
-      "posted": null,
-      "relevance_score": 0,
-      "tags": [
-        "Simons",
-        "Private",
-        "Math",
-        "Life Sciences",
-        "AI"
-      ]
-    },
-    {
-      "id": "6297a5ab6e",
-      "title": "Simons Symposia",
-      "source": "Simons Foundation",
-      "type": "Private Foundation Grant",
-      "url": "https://www.simonsfoundation.org/grant/simons-symposia-program/",
       "description": "",
       "deadline": null,
       "amount": null,
